@@ -1,6 +1,7 @@
 // 地址簿权限配置
 // 
 //
+// IDECodeSnippetCompletionPrefix: addressbook
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: E2B50293-ACCD-44C6-948B-28617B1FFD47
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
