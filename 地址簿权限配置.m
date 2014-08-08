@@ -4,6 +4,7 @@
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: E2B50293-ACCD-44C6-948B-28617B1FFD47
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 - (bool)checkAddressBookAuthorizationStatus:(UITableView *)tableView
