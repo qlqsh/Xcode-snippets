@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (bool)checkAddressBookAuthorizationStatus:(UITableView *)tableView
 {
     ABAuthorizationStatus authStatus = ABAddressBookGetAuthorizationStatus();
