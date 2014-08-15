@@ -1,5 +1,5 @@
 // 隐藏状态条
-// 
+// 隐藏ios设置顶部的状态条（2种方式）
 //
 // IDECodeSnippetCompletionPrefix: common
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
