@@ -1,6 +1,7 @@
 // 隐藏状态条
 // 
 //
+// IDECodeSnippetCompletionPrefix: common
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 19981594-F88B-489A-833F-1D1772A6AE9F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
