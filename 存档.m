@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /**
      *  存档
      *  NSHomeDirectory()   根目录。4个文件夹（Documents、AppName.app、Library、tmp）
