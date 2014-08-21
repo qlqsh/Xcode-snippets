@@ -1,5 +1,5 @@
 // 存档
-// 
+// 将数据保存到指定文件
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 72A620B6-D9EE-4FF9-9DFE-46616555C69E
