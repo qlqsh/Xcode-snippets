@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 72A620B6-D9EE-4FF9-9DFE-46616555C69E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 /**
