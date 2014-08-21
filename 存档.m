@@ -17,8 +17,7 @@
      *          Caches      程序专用的支持文件目录。保存程序再次启动中需要的信息。
      *      tmp             临时文件目录。程序再次启动中不需要的信息。
      */
-    NSString *savePath        = [NSHomeDirectory() stringByAppendingString:@"description
-                                 "];
+    NSString *savePath        = [NSHomeDirectory() stringByAppendingString:@"description"];
     NSMutableData *saveData   = [NSMutableData data];
     NSKeyedArchiver *archiver = [[NSKeyedArchiver alloc] initForWritingWithMutableData:saveData];
     [archiver encodeObject:subforum2 forKey:@"subforum1"];
