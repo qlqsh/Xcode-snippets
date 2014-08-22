@@ -1,7 +1,7 @@
 // 存档
 // 将自定义对象数据保存到指定文件
 //
-// IDECodeSnippetCompletionPrefix: !archiver
+// IDECodeSnippetCompletionPrefix: archiver
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 72A620B6-D9EE-4FF9-9DFE-46616555C69E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
