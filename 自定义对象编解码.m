@@ -25,7 +25,7 @@
     
     if (self = [super init])
     {
-        
+        <#statements#>
     }
     
     return self;
