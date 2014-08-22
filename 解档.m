@@ -1,7 +1,7 @@
 // 解档
 // 从指定文件获取自定义对象数据
 //
-// IDECodeSnippetCompletionPrefix: !archiver
+// IDECodeSnippetCompletionPrefix: archiver
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 8E626E1A-D992-4762-840F-CF75A37BEA70
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
