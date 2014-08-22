@@ -1,5 +1,5 @@
 // 解档
-// 
+// 从指定文件获取自定义对象数据
 //
 // IDECodeSnippetCompletionPrefix: !archiver
 // IDECodeSnippetCompletionScopes: [CodeBlock]
