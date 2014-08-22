@@ -22,14 +22,10 @@
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
     NSString *name   = [aDecoder decodeObjectForKey:@"name"];
-    NSString *number = [aDecoder decodeObjectForKey:@"number"];
-    NSString *href   = [aDecoder decodeObjectForKey:@"href"];
     
     if (self = [super init])
     {
-        _name   = name;
-        _number = number;
-        _href   = href;
+        
     }
     
     return self;
