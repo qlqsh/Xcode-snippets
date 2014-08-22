@@ -1,7 +1,7 @@
 // 存档
 // 将数据保存到指定文件
 //
-// IDECodeSnippetCompletionPrefix: archiver
+// IDECodeSnippetCompletionPrefix: !archiver
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 72A620B6-D9EE-4FF9-9DFE-46616555C69E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
@@ -29,8 +29,3 @@ if (!success)
     NSLog(@"存档失败, %@", savePath);
 }
 
-// 解档
-NSString *loadPath            = [NSHomeDirectory() stringByAppendingString:@"/Library/Caches/<#解档文件#>"];
-NSMutableData *loadData       = [NSMutableData dataWithContentsOfFile:loadPath];
-NSKeyedUnarchiver *unarchiver = [[NSKeyedUnarchiver alloc] initForReadingWithData:loadData];
-<#class name#> *<#object#>           = [unarchiver decodeObjectForKey:@"<#key#>"];
