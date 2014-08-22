@@ -1,5 +1,5 @@
 // 存档
-// 将数据保存到指定文件
+// 将自定义对象数据保存到指定文件
 //
 // IDECodeSnippetCompletionPrefix: !archiver
 // IDECodeSnippetCompletionScopes: [CodeBlock]
