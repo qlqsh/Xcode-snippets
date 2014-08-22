@@ -13,7 +13,7 @@
  */
 - (void)encodeWithCoder:(NSCoder *)aCoder
 {
-    [aCoder encodeObject:<##> forKey:@"name"];
+    [aCoder encodeObject: forKey:@"name"];
 }
 
 /**
