@@ -21,7 +21,7 @@
  */
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
-    NSString *name   = [aDecoder decodeObjectForKey:@"<#key#>"];
+    <#class name *name   = [aDecoder decodeObjectForKey:@"<#key#>"];
     
     if (self = [super init])
     {
