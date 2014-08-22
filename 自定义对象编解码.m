@@ -1,6 +1,7 @@
 // 自定义对象编/解码
 // 
 //
+// IDECodeSnippetCompletionPrefix: archiver
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: C5103F25-B5FE-4662-8DE9-F4C5EBA1A468
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
@@ -13,8 +14,6 @@
 - (void)encodeWithCoder:(NSCoder *)aCoder
 {
     [aCoder encodeObject:_name forKey:@"name"];
-    [aCoder encodeObject:_number forKey:@"number"];
-    [aCoder encodeObject:_href forKey:@"href"];
 }
 
 /**
