@@ -17,7 +17,7 @@
 }
 
 /**
- *  解码，建立 Subforum 对象。
+ *  解码，建立对象。
  */
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
