@@ -1,11 +1,12 @@
-// GCD: Dispatch After
+// gcd:_dispatch_after
 // Execute a block after a set amount of time.
 //
 // IDECodeSnippetCompletionPrefix: dispatch_after snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 7A8FBEEF-B793-4F61-8368-28ED63CD8956
+// IDECodeSnippetIdentifier: 00040AA9-9F49-48C2-BB05-ADD9F2CEEC7D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(<#delayInSeconds#> * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
     <#code to be executed after a specified delay#>
 });
